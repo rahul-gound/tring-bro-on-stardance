@@ -1,0 +1,26 @@
+{
+  "name": "tring-bro-on-stardance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-gound/tring-bro-on-stardance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rahul-gound/tring-bro-on-stardance/issues"
+  },
+  "homepage": "https://github.com/rahul-gound/tring-bro-on-stardance#readme",
+  "dependencies": {
+    "@slack/bolt": "^5.0.0",
+    "axios": "^1.19.0",
+    "dotenv": "^17.4.2"
+  }
+}
