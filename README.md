@@ -10,9 +10,9 @@ available commands :-
  /tring-bro-on-stardance-help,
  /tring-bro-on-stardance-weather
 
-i used nest for deployment 
-and for weather i used : open-meteo
-for cat fact :
-for jokes:
+# i used nest for deployment 
+# and for weather i used : open-meteo
+# for cat fact :catfact.ninja
+# for jokes: official-joke-api.appspot.com
 
 and my hackatime time is low because i was using github codespace for coding and forgot to apply hackatime 
